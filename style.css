@@ -1,0 +1,12 @@
+* {
+  width: 1300px;
+}
+header {
+  height: 70px;
+}
+.header-logo {
+  text-align: right;
+  font-size: 40px;
+  color: #55bbbb;
+
+}
