@@ -13,32 +13,64 @@ header {
 }
 .first-view {
   width: 100%;
+  height: 410px;
   position: relative;
 }
 .first-phont {
   font-size: 64px;
+  margin-left: 5%;
   position: absolute;
 }
 .first-phont span {
   color: #55bbbb;
 }
 .first-view-img {
-  width: 70%;
+  width: 80%;
   float: right;
 }
 .first-view-circle {
   width: 100px;
   height: 100px;
   line-height: 100px;
-  background-color: rgb(235, 137, 210);
+  background-color: rgb(241, 42, 192);
   border-radius: 50%;
   color: #fff;
+  font-size: larger;
   text-align: center;
   position: absolute;
+  margin-top: 17%;
+  margin-left: 10%;
 }
 .first-view-p {
   position: absolute;
+  color: #55bbbb;
+  font-size: 25px;
+  margin-top: 18%;
+  margin-left: 20%;
 }
 .first-view-cost {
   position: absolute;
+  font-size: 25px;
+  margin-top: 20%;
+  margin-left: 20%;
+  color: rgb(241, 42, 192);
+}
+.first-view-cost span {
+  font-size: 50px;
+  font-weight: bold;
+}
+.first-view-shadow {
+  display: block;
+  height: 60px;
+  position: absolute;
+  width: 30%;
+  line-height: 50px;
+  background: rgb(241, 42, 192);
+  color: #fff;
+  border-radius: 25px;
+  box-shadow: 0px 0px 20px 0px rgb(241 42 192);
+  text-decoration: none;
+  text-align: center;
+  top: 82%;
+  left: 15%;
 }
