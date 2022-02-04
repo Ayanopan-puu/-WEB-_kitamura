@@ -1,4 +1,4 @@
-# COACHCOSME_kitamura
+# COACHCOSME
 
 
 ![COACH COSME1](https://user-images.githubusercontent.com/89112624/151919052-7e8df805-0486-4b91-97b6-320abc701a56.png)
