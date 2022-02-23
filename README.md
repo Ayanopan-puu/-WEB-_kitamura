@@ -8,3 +8,11 @@
 
 # URL
 https://focused-hodgkin-a8c5a7.netlify.app/
+
+
+# 使用技術
+HTML
+
+
+
+CSS
